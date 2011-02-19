@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns1:root xmlns:ns1="http://fake.tewls.com/a">
+   <ns0:child xmlns:ns0="http://fake.tewls.com/b" attr="value" ns0:type="atype" ns0:name="aname">Name</ns0:child>
+</ns1:root>

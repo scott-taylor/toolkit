@@ -4,7 +4,7 @@
     <parent>
         <artifactId>toolkit</artifactId>
         <groupId>org.tewls.toolkit</groupId>
-        <version>0.0.7-SNAPSHOT</version>
+        <version>0.0.7</version>
     </parent>
     <packaging>jar</packaging>
     <groupId>org.tewls.toolkit</groupId>

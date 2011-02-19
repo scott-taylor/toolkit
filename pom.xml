@@ -97,9 +97,9 @@
         </dependencies>
     </dependencyManagement>
     <scm>
-        <connection>scm:svn:http://tewls-toolkit.googlecode.com/svn/trunk/</connection>
-        <developerConnection>scm:svn:https://tewls-toolkit.googlecode.com/svn/trunk/</developerConnection>
-        <url>http://tewls-toolkit.googlecode.com/</url>
+        <connection>scm:git:git://github.com/scott-taylor/toolkit.git</connection>
+        <developerConnection>scm:git:ssh://github.com/scott-taylor/toolkit.git</developerConnection>
+        <url>https://github.com/scott-taylor/toolkit/wiki</url>
     </scm>
     <build>
         <pluginManagement>

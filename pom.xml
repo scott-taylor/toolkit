@@ -9,7 +9,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.tewls.toolkit</groupId>
     <artifactId>toolkit</artifactId>
-    <version>0.0.7</version>
+    <version>0.0.8-SNAPSHOT</version>
     <name>toolkit</name>
     <packaging>pom</packaging>
     <modules>

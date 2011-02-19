@@ -98,7 +98,7 @@
     </dependencyManagement>
     <scm>
         <connection>scm:git:git://github.com/scott-taylor/toolkit.git</connection>
-        <developerConnection>scm:git:ssh://github.com/scott-taylor/toolkit.git</developerConnection>
+        <developerConnection>scm:git:git://github.com/scott-taylor/toolkit.git</developerConnection>
         <url>https://github.com/scott-taylor/toolkit/wiki</url>
     </scm>
     <build>

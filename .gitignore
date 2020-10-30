@@ -4,5 +4,7 @@ target
 .settings
 .classpath
 .checkstyle
+.idea
+*.iml
 *.releaseBackup
 release.properties

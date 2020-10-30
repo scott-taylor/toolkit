@@ -41,11 +41,7 @@ public final class ChangerBuilder<S, I, O, E> implements Linkable<S, I, O, E>
 {
     private final Chainable<S, I, O, E> chainable;
 
-    /**
-     * Do not use this method. This method will be made private in the
-     * near future. Its made package private to allow an older chain package to
-     */ 
-    ChangerBuilder(Chainable<S, I, O, E> chainable)
+    private ChangerBuilder(Chainable<S, I, O, E> chainable)
     {
         AssertTools.notNull(chainable);
         this.chainable = chainable;
